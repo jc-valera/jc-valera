@@ -1,6 +1,10 @@
 <div align=center>
-    <img src="https://github.com/jc-valera/jc-valera/assets/56094123/1485c08d-818e-40fa-9f32-f1393840b98c" alt="GitHub Octocat Drinking a Cup of Coffee" height="250">
-    <h1> Hi Everyone👋. I'm Charly</h1>
+    <table>
+        <tr align=center>
+            <td><h1> Hi Everyone👋 <br> I'm Charly</h></td>
+            <td><img src="https://github.com/jc-valera/jc-valera/assets/56094123/1485c08d-818e-40fa-9f32-f1393840b98c" alt="GitHub Octocat Drinking a Cup of Coffee" height="260"></td>
+        </tr>
+    </table>
 </div>
 
 # <img src="https://media2.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="35"><b>About me<b>
